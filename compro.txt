@@ -1,0 +1,5 @@
+นายA    compro  65
+นายB    compro  56
+นายC    compro  50
+นายD    compro  90
+นายE    compro  70
