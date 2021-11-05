@@ -1,0 +1,10 @@
+นายA    cal         100
+นายB    cal         63
+นายC    cal         50
+นายD    cal         90
+นายE    cal         75
+นายA    compro      65
+นายB    compro      56
+นายC    compro      50
+นายD    compro      90
+นายE    compro      70
