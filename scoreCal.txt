@@ -1,0 +1,5 @@
+นายA    cal         100
+นายB    cal         63
+นายC    cal         50
+นายD    cal         90
+นายE    cal         75
